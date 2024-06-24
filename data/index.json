@@ -1,0 +1,69 @@
+{
+    "output":[
+        {
+            "id": 1,
+            "flowerName": "Iris flower",
+            "Description": "Bearded Iris - Glacier Shadows - 3 plants p-pack",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/iris.jpg",
+            "Price": "R165.00"
+        },
+        {
+            "id": 2,
+            "flowerName": "Lavender flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/lavender_flowers.jpg",
+            "Price": "R55.00"
+        },
+        {
+            "id": 3,
+            "flowerName": "Lily flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/lily_flower.jpg",
+            "Price": "R250.00"
+        },
+        {
+            "id": 4,
+            "flowerName": "Rose flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/rose_flowers.jpg",
+            "Price": "R300.00"
+        },
+        {
+            "id":5,
+            "flowerName": "Sunflower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/sunflower.jpg",
+            "Price": "R200.00"
+        },
+        {
+            "id":6,
+            "flowerName": "Aster flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/aster_flowers.jpg",
+            "Price": "R345.00"
+        },
+        {
+            "id":7,
+            "flowerName": "Carnation flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/carnation_flowers.jpg",
+            "Price": "R500.00"
+        },
+        {
+            "id": 8,
+            "flowerName": "Popies flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/popies_flowers.jpg",
+            "Price": "R450.00"
+        },
+        {
+            "id":9,
+            "flowerName": "Daisy flower",
+            "Description": "Price per bunch, Stems per bunch: 20",
+            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/daisy_flowers.jpg",
+            "Price": "R200.00"
+        }
+       
+        
+    ]
+}
