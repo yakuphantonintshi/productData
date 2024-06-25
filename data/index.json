@@ -1,13 +1,7 @@
 {
     "output":[
         {
-            "id": 1,
-            "flowerName": "Iris flower",
-            "Description": "Bearded Iris - Glacier Shadows - 3 plants p-pack",
-            "ImageUrl": "https://yakuphantonintshi.github.io/myimages/Images/iris.jpg",
-            "Price": "R165.00"
-        },
-        {
+        
             "id": 2,
             "flowerName": "Lavender flower",
             "Description": "Price per bunch, Stems per bunch: 20",
